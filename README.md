@@ -1,6 +1,6 @@
 # Terrain Generator
 
-Application for generation and visualization of terrain meshes.
+Application for generation and visualization of terrains with shadow mapping. 
 
 ### External libraries:
 
