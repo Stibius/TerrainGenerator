@@ -5,8 +5,8 @@ Application for generation and visualization of terrains with textures and shado
 ### External libraries:
 
 - Qt5
-- glm
 - GLEW
+- glm
 - Assimp
 
 ### Features:
